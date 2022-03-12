@@ -1,7 +1,7 @@
 # 0x00. AirBnB clone - The console
 <div style="text-align: justify">
 
-Thank you for visiting this repository which contain the `first step` towards building first `full web application`: the `AirBnB clone`. 
+Thank you for visiting this repository which contain the `first step` towards building first `full web application`: the `AirBnB clone` 
 <div style="text-align: justify">
 	
 ![hbnb](https://github.com/Alexoat76/AirBnB_clone/blob/main/assets/hbnb-logo.png?raw=true)
