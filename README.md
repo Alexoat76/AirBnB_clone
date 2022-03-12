@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Made%20with-Python-blue.svg"/>
 <img src="https://img.shields.io/badge/Markdown-black.svg"/>
-<img src="https://img.shields.io/badge/HTML-green.svg"/>
+<img src="https://img.shields.io/badge/HTML-orange.svg"/>
 <img src="https://img.shields.io/github/license/Alexoat76/AirBnB_clone"/>
 <img src="https://img.shields.io/github/repo-size/Alexoat76/AirBnB_clone"/>
 <img src="https://img.shields.io/github/languages/code-size/Alexoat76/AirBnB_clone.svg"/>
