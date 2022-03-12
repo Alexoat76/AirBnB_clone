@@ -1,3 +1,15 @@
+<p align="center">
+<img src="https://img.shields.io/badge/Made%20with-Python-blue.svg"/>
+<img src="https://img.shields.io/badge/Markdown-black.svg"/>
+<img src="https://img.shields.io/badge/HTML-green.svg"/>
+<img src="https://img.shields.io/github/repo-size/Alexoat76/AirBnB_clone"/>
+<img src="https://img.shields.io/github/languages/code-size/Alexoat76/AirBnB_clone.svg"/>
+<img src="https://img.shields.io/github/last-commit/Alexoat76/AirBnB_clone/main?style=round-square"/>
+<img src="http://img.shields.io/:License-MIT-red.svg?style=flat-square?style=flat-square"
+</p>
+	
+---
+	
 # 0x00. AirBnB clone - The console
 <div style="text-align: justify">
 
