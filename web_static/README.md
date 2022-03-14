@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Made%20with-Markdown-black.svg"/>
 <img src="https://img.shields.io/badge/HTML-orange.svg"/>
-<img src="https://img.shields.io/badge/CSS-rebeccapurple.svg"/> <br>
+<img src="https://img.shields.io/badge/CSS-rebeccapurple.svg"/>
 </p>
 	
 ---
