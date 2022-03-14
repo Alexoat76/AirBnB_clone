@@ -21,7 +21,7 @@ Thank you for visiting this repository which contain the `second step` towards b
 ## Table of Contents
 * [About](#about)
 * [Requirements](#requirements)
-* [Visualization](#visualization)
+* [Visualization](#visualization-computer)
 * [Tasks](#tasks)
 * [Credits](#credits)
 
