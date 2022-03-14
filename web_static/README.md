@@ -11,6 +11,8 @@
 
 Thank you for visiting this repository which contain the `second step` towards building first `full web application`: the `AirBnB clone`. During this project, you will learn how to manipulate `HTML` and `CSS` languages.
 	
+![hbnb](https://github.com/Alexoat76/AirBnB_clone/blob/main/assets/hbnb_step1.png?raw=true)
+	
 <div style="text-align: justify">
 	
 # Getting Started :running:	
@@ -19,6 +21,7 @@ Thank you for visiting this repository which contain the `second step` towards b
 ## Table of Contents
 * [About](#about)
 * [Requirements](#requirements)
+* [Visualization](#visualization)
 * [Tasks](#tasks)
 * [Credits](#credits)
 
@@ -27,9 +30,8 @@ Thank you for visiting this repository which contain the `second step` towards b
 	
 The tasks in this repository cover:
 	
-- Create simple HTML static pages
-- Style guide
-- Fake contents
+- Create simple **`HTML`** static pages
+- **`Style guide`**
 
 ## Resources :books:
 
@@ -60,20 +62,29 @@ The tasks in this repository cover:
 - Your code should be W3C compliant and validate with [W3C-Validator](https://github.com/holbertonschool/W3C-Validator) 
 - All your CSS files should be in  ` styles `  folder
 - All your images should be in  ` images `  folder
-- You are not allowed to use  ` !important `  and  ` id `  ( ` #... `  in the CSS file)
+- You are not allowed to use  ` !important `  and  ` id `  ( ` #... `  in the `CSS file`)
 - You are not allowed to use tags  ` img ` ,  ` embed `  and  ` iframe ` 
 - You are not allowed to use Javascript
 - Current screenshots have been done on  ` Chrome 56 `  or more. 
 - No cross browsers 
 - You have to follow all requirements but some  ` margin ` / ` padding `  are missing - you should try to fit as much as you can to screenshots
 
+---
 	
-## Installation :computer:
+## Visualization :computer:
 	
-- Clone this repository: `git clone "https://github.com/Alexoat76/AirBnB_clone"`	
-- Access AirBnb directory: `cd AirBnB_clone.`
+The results of this project is a collection of static web pages for the Air BnB clone website. <br>
+A live preview of each page can be seen by using the following link template:
 
+```html
+https://alexoat76.github.io/AirBnB_clone/web_static/<page>
+```
 
+The **page** would have to be replaced by the page you want to see. For example,<br>
+for the page **5-index.html**, the link is [https://alexoat76.github.io/AirBnB_clone/web_static/5-index.html](https://alexoat76.github.io/AirBnB_clone/web_static/5-index.html).
+
+---
+	
 ## Tasks
 
 + [x] 0. Inline styling<br/>_**[0-index.html](0-index.html)**_ contains an HTML page that displays a header and a footer.
